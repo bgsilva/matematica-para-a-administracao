@@ -1,7 +1,7 @@
 # Matemática para a administração (2016/1)
 Material do curso de matemática para administração 2016/1
 
-### **Provas anteriores**
+### **Gabaritos das provas**
 
 [Primeira Prova (Turma A) - Gabarito](http://nbviewer.jupyter.org/github/brosiv/matematica-para-a-administracao/blob/master/MAC119_P1A_2016-1.ipynb)
 
