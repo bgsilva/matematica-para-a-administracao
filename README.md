@@ -11,6 +11,10 @@ Material do curso de matemática para administração 2016/1
 
 [Segunda Prova (Turma B) - Gabarito](http://nbviewer.jupyter.org/github/brosiv/matematica-para-a-administracao/blob/master/MAC119_P2B_2016-1.ipynb)
 
+[Terceira Prova (Turma A) - Gabarito](http://nbviewer.jupyter.org/github/brosiv/matematica-para-a-administracao/blob/master/MAC119_P3A_2016-1.ipynb)
+
+[Terceira Prova (Turma B) - Gabarito](http://nbviewer.jupyter.org/github/brosiv/matematica-para-a-administracao/blob/master/MAC119_P3B_2016-1.ipynb)
+
 ### **Revisão**
 
 Primeira unidade - Funções e limites
