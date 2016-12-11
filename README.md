@@ -1,3 +1,10 @@
+# Matemática para a administração (2016/2)
+Material do curso de matemática para administração 2016/1
+
+### **Gabaritos das Listas**
+
+[Terceira Lista de Exercícios - Gabarito](http://nbviewer.jupyter.org/github/brosiv/matematica-para-a-administracao/blob/master/MAT_ADM_L4_2016-2.ipynb)
+
 # Matemática para a administração (2016/1)
 Material do curso de matemática para administração 2016/1
 
